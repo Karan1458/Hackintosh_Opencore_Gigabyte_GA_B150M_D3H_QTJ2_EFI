@@ -2,7 +2,7 @@
 
 **OpenCore : 1.0.3**
 
-**macOS ：15.1**
+**macOS : 15.1**
 
 **SMBIOS : iMac20,1**
 
