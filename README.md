@@ -10,11 +10,11 @@
 
 | **Component** | **Model**             |
 | ------------- | --------------------- |
-| CPU           | Intel QTJ2            |
+| CPU           | Intel i5 7gen            |
 | Motherboard   | Gigabyte GA-B150M-D3H |
 | RAM           | Cuso 8GB*2 DDR4@2400  |
 | Audio Chipset | ALC892                |
-| GPU           | UHD630                |
+| GPU           | NVIDIA GeForce GT 710                |
 | Ethernet      | Intel I219-V          |
 | OS Disk(NVME) | Micron 2200           |
 
@@ -25,16 +25,14 @@
   [AppleALC](https://github.com/acidanthera/AppleALC) (`alcid=15`)
 
 - Microphone
-
 - Ethernet
-
 - USB
-
-### Not tested
-
 - Bluetooth
 - Wi-Fi
+- Sleep Mode
+- HDMI
+
 
 ### Not working
 
-- Sleep mode
+- Everything works
