@@ -1,8 +1,8 @@
-# GA-B150M-D3H  技嘉B150M + QTJ2
+# GA-B150M-D3H B150M + i5 7500 + GT 710
 
-**OpenCore : 0.7.7**
+**OpenCore : 1.0.3**
 
-**macOS ：12.2**
+**macOS ：15.1**
 
 **SMBIOS : iMac20,1**
 
